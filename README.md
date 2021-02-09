@@ -1,0 +1,1 @@
+# Docker image of Arduino CLI and ESP32 core installed
